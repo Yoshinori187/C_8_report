@@ -6,6 +6,7 @@ int main(void) {
 
     printf("Hello, GitHub!\n");
     printf("step 1\n");
+    printf("step 2\n");
     printf("a + b = %d\n", a + b);
 
     return 0;
